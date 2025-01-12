@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #007bff;
+}
+
+.navbar .nav-link {
+    color: #9c9999;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    margin-top: 50px;
+}
+.addcart{
+    text-decoration: none;
+    color: #f8f9fa;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+   
